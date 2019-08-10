@@ -1,0 +1,56 @@
+k hop https://cs.stackexchange.com/questions/38375/what-is-an-edge-hop
+https://themeforest.net/item/isomorphic-react-redux-admin-dashboard/20262330?s_rank=1
+
+***Next role:
+    Deployment experience:
+        K8 performance, distributed DB, Gitlab, Jenkins, Ansible
+        Load tests
+        AWS, GCP
+        
+db concurrency, data integrity evaluation,
+kubernetes performance metrics
+load tests, protocol buffers
+
+binary index tree
+data struct/algos/competitive (https://atcoder.jp/,hackerrank codility leetcode)
+Kaggle, Google Code Jam, Hackerone (OSCP)
+google cloud/colate
+
+https://docs.docker.com/storage/volumes/
+
+python package versioning
+boost python
+currying
+inversion of control
+
+c++
+
+git
+linux
+node var {something} = require("asd"), server
+
+mysql
+aws, ec2, ansible,
+type I,II hypervisor
+django
+rabbitmq
+postgres
+rest vs grpc
+burp suite
+tensorflow parallel training sharing weights/ commandline
+parasoft
+
+synology
+ssl,ibm,10660.htm
+cassandraDB
+hadoop
+android
+ios
+opengl,webgl
+opencv, instanceSegmentation Sunita Nayak
+rasterview
+ruby on rail
+svn
+red hat
+
+full tunnel mode, session key, encrypted traffic (compressed+encryption)
