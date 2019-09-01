@@ -1,9 +1,14 @@
+Project ideas:
+    - TOR: discovering the crime network
+    - Sniffing TLS/HTTPS data using timebased approaches
+    - 
+
 k hop https://cs.stackexchange.com/questions/38375/what-is-an-edge-hop
 https://themeforest.net/item/isomorphic-react-redux-admin-dashboard/20262330?s_rank=1
 
 ***Next role:
     Deployment experience:
-        K8 performance, distributed DB, Gitlab, Jenkins, Ansible
+        K8 performance, distributed DB, Gitlab
         Load tests
         AWS, GCP
         
@@ -23,21 +28,14 @@ boost python
 currying
 inversion of control
 
-c++
-
-git
 linux
 node var {something} = require("asd"), server
 
 mysql
 aws, ec2, ansible,
 type I,II hypervisor
-django
-rabbitmq
-postgres
 rest vs grpc
 burp suite
-tensorflow parallel training sharing weights/ commandline
 parasoft
 
 synology
