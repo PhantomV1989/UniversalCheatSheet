@@ -1,3 +1,3 @@
 git add -A
 git commit -m 'dc'
-git push
+git push gh master
