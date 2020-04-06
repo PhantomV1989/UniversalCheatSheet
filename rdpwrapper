@@ -1,0 +1,4 @@
+Download & install.
+RDPConf check Service state version
+Go Github get correct values for version, add to C:\Program Files\RDP Wrapper/rdpwrap
+service restart TermService
