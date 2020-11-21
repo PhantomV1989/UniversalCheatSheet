@@ -1,0 +1,28 @@
+gradle-wrapper.properties
+(solves google())
+    distributionBase=GRADLE_USER_HOME
+    distributionPath=wrapper/dists
+    zipStoreBase=GRADLE_USER_HOME
+    zipStorePath=wrapper/dists
+    distributionUrl=https\://services.gradle.org/distributions/gradle-4.1-all.zip
+
+
+add repo source
+    buildscript {
+        repositories {
+            google() // here
+        }
+    }
+    repositories {
+        google() // here
+    }
+
+gradle version compatibility
+    buildscript {
+        dependencies {
+            classpath 'com.android.tools.build:gradle:3.4.0'  
+        }
+    }
+
+    to 
+    distributionUrl=https\://services.gradle.org/distributions/gradle-6.5-bin.zip

@@ -1,0 +1,25 @@
+vendorId:productId
+
+https://www.youtube.com/watch?v=-O6GsrmOUgY&list=PL16941B715F5507C5&index=3
+kernel vesion
+    uname -r
+
+new module
+    insmod/rmmod
+    https://www.youtube.com/watch?v=S8hifIrDh-g&list=PL16941B715F5507C5&index=1
+    dmesg
+
+char device driver
+
+device io
+    /dev location
+    ls -l tty0
+    mknod
+    https://www.youtube.com/watch?v=hr-3rKA2Oxs&list=PL16941B715F5507C5&index=5
+
+lsusb -v
+    https://www.youtube.com/watch?v=5IDL070RtoQ&list=PL16941B715F5507C5&index=9
+
+
+Android usb host mode
+    https://www.youtube.com/watch?v=Hg3itVYNQLQ

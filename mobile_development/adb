@@ -1,0 +1,3 @@
+adb -s myDeviceId uninstall android.vpn.debug
+adb shell ...
+adb logcat -d

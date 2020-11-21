@@ -1,0 +1,4 @@
+mbed, arduino
+gcc+makefile+emacs, gdb openocd
+keli
+visualgdb
